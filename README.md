@@ -6,3 +6,10 @@ I started the Google Data Analytics Professional Certificate offered on Coursera
   This involves a bike-share program that features more than 5,800 bicycles and 600 docking stations. It currently offers bikes for use to two customer segments: Casuals and Members.The director of marketing believes the company's future success depends on maximizing the number of annual memberships. Therefore, the team wants to understand how casual riders and annual members use Cyclistic bikes differently. 
   
   The marketing department has been tasked with creating a campaign aimed at converting Casuals to Annual Members. To help them complete this business task, the marketing team has assigned me with answering the following question "How do annual members and casual riders use Cyclistic bikes differently?"
+  
+#### For Further Details:
+The tools i used for the analysis are SQL and Tableau.
+
+To get access to the full project where i state details of the processes i used in the analysis, kindly use this 
+
+To view my data visualization, kindly go here 
