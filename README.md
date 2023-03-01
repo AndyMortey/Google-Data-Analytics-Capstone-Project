@@ -12,4 +12,4 @@ The tools i used for the analysis are SQL and Tableau.
 
 To get access to the full project where i state details of the processes i used in the analysis, kindly use this 
 
-To view my data visualization, kindly go here 
+To view my data visualization, kindly go here https://public.tableau.com/app/profile/andy.etornam.mortey
