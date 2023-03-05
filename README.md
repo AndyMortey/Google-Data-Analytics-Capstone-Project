@@ -10,6 +10,6 @@ I started the Google Data Analytics Professional Certificate offered on Coursera
 #### For Further Details:
 The tools i used for the analysis are SQL and Tableau.
 
-To get access to the full project where i state details of the processes i used in the analysis, kindly use this https://medium.com/p/bef46dc1ec80/edit
+To get access to the full project where i state details of the processes i used in the analysis, kindly use this https://medium.com/@morteyandrews
 
 To view my data visualization, kindly go here https://public.tableau.com/app/profile/andy.etornam.mortey
